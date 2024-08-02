@@ -1,0 +1,47 @@
+.container{
+    height: 568px;
+    border: 5px solid grey;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+   
+ .icon{
+    height: 225px;
+    width: 230px;
+  margin-top: 190px;
+    border: 5px solid grey;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: antiquewhite;
+
+
+ }
+
+a{
+     
+    color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+    text-decoration: none;
+    display: flex;
+    color: black;
+    height: 100px;
+    color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+    text-decoration: none;
+    display: flex;
+    display: block;
+    color: black;
+    margin-left: 25px;
+  
+}
+.butty{
+
+    color: red;
+    background: aqua;
+    border-radius: 79px;
+    height: 43px;
+
+}
